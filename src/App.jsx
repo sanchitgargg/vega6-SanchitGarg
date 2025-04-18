@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Myinfo from './components/Myinfo';
-import SearchBar from './components/SearchBar';
+import SearchBar from './components/Searchbar';
 import Images from './components/Images';
 import CanvasEditor from './components/CanvasEditor';
 
